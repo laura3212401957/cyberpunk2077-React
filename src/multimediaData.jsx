@@ -30,7 +30,7 @@ export const multimediaData =[
     {
         id: 4,
         franchise: "CYBERPUNK2077",
-        category: "FONDOS DE PANTALLA ",
+        category: "FONDOS DE PANTALLA",
         type: "image",
         title: "Nigth City",
         src: "https://cyberpunk.cdn.cdpr.app/media/wallpaper/2369/1920x1080/Cyberpunk2077_5thAnniversary_KV_16x9_ES_q70_684x385.png"
@@ -310,7 +310,7 @@ export const multimediaData =[
         category: "ESCUCHAR AHORA",
         type: "platform",
         title: "Apple Music",
-        logo: "/media/music/applemusic.png",
+        logo: "https://static.cdprojektred.com/cms.cdprojektred.com/9dd26f925e2c8b143bf3d71f554bf3e01c4eeb69.png?d2kkz",
         url: "https://music.apple.com/"
     },
 
@@ -320,7 +320,7 @@ export const multimediaData =[
         category: "ESCUCHAR AHORA",
         type: "platform",
         title: "Spotify",
-        logo: "/media/music/spotify.png",
+        logo: "https://static.cdprojektred.com/cms.cdprojektred.com/fc572e9fd7ccd2a493bf03fa9045b2a30fe5f32a.png?bpdvsfy.png",
         url: "https://open.spotify.com/"
     },
 
@@ -329,9 +329,9 @@ export const multimediaData =[
         franchise: "MUSICA",
         category: "ESCUCHAR AHORA",
         type: "platform",
-        title: "YouTube Music",
-        logo: "/media/music/youtubemusic.png",
-        url: "https://music.youtube.com/"
+        title: "Deezer",
+        logo: "https://static.cdprojektred.com/cms.cdprojektred.com/2f6e9c63a41a352534319310ae62f720c183a28f.png?e3xkdubemusic.png",
+        url: "https://www.deezer.com/en/album/481767455e.com/"
     }
 
 ]
